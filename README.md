@@ -18,6 +18,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/w5rTXEfu4as4YAR6QI/giphy.gif" width="100%" alt="Container Ship at Sea"/>
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0080FF,100:00BFFF&height=3" width="100%"/>
 
 ## ⚓ &nbsp;Who I Am
