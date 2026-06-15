@@ -27,8 +27,6 @@
 ```yaml
 name      : Suji Kumar C
 based     : Gujarat, India 🇮🇳
-current   : Manager – IT & Digital Transformation
-            Shoft Shipyard Pvt. Ltd.
 domain    : Shipbuilding + Maritime Software
 experience: 13+ years across every layer of a shipyard
 ```
