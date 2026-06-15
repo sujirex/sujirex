@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/w5rTXEfu4as4YAR6QI/giphy.gif" width="100%" alt="Container Ship at Sea"/>
+  <img src="https://media.giphy.com/media/v1HyIOR08GY6I/giphy.gif" width="480" alt="Ship Navigation Radar System"/>
 </div>
 
 <br/>
