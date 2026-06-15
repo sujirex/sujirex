@@ -1,16 +1,142 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060717,40:0a1f5c,100:00BFFF&height=220&section=header&text=Suji%20Kumar%20C&fontSize=56&fontFamily=Roboto&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Maritime%20Engineer%20%E2%80%A2%20Shipyard%20Software%20Architect&descAlignY=58&descSize=17&descColor=a0d8ef" width="100%"/>
 
-<!--
-**sujirex/sujirex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=⚓+13%2B+Years+Inside+a+Live+Shipyard;⚡+Ship+Electrical+%26+NAVCOM+Systems+Engineer;🌊+Building+Maritime+Software+from+the+Inside;📐+CNC+Nesting+%26+Steel+Production+Technology;🖥️+IT+Infrastructure+%26+Digital+Transformation+Lead;🚢+From+Hull+Plate+to+Production+Dashboard" alt="Typing" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_sujikumar.com-0d1b4b?style=for-the-badge&logoColor=00BFFF)](https://sujikumar.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujirex)&nbsp;
+[![MarineElect](https://img.shields.io/badge/⚡_MarineElect-00ff88?style=for-the-badge&logoColor=black)](https://marineelect.sujikumar.com)&nbsp;
+[![ShipDash](https://img.shields.io/badge/⚓_ShipDash-00BFFF?style=for-the-badge&logoColor=black)](https://shipdash.sujikumar.com)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=sujirex&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)](https://sujikumar.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060717,100:0a1f5c&height=3&section=header" width="100%"/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"/> &nbsp;Who I Am
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sujirex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060717&title_color=00BFFF&icon_color=14b8a6&text_color=a0d8ef&border_radius=12" width="400"/>
+
+```yaml
+name      : Suji Kumar C
+based     : Gujarat, India 🇮🇳
+current   : Manager – IT & Digital Transformation
+            Shoft Shipyard Pvt. Ltd.
+domain    : Shipbuilding + Maritime Software
+experience: 13+ years across every layer of a shipyard
+```
+
+```yaml
+doing_now :
+  - Building maritime web apps from scratch
+  - Running IT infrastructure for a live shipyard
+  - Learning IoT & edge computing for marine ops
+  - Shipping new tools at sujikumar.com
+```
+
+<br clear="right"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:8b5cf6&height=3" width="100%"/>
+
+## 🚢 &nbsp;My Shipyard Journey
+
+<div align="center">
+
+| Layer | Role | Years |
+|---|---|---|
+| ⚡ **Electrical Engineering** | Ship systems, MSB, NAVCOM, class surveys | 5 yrs |
+| 🔩 **Hull Production** | Structural fab, block assembly, scheduling | 3 yrs |
+| 📐 **Nesting Technology** | CNC plasma, steel yield optimization, BI | 4 yrs |
+| 🖥️ **IT Infrastructure** | WAN/LAN, servers, NAS, surveillance, AD | 7 yrs |
+| ⚙️ **Digital Transformation** | Zoho, automation, compliance dashboards | 3 yrs |
+| 💻 **Software Development** | Maritime web apps, APIs, internal tools | 3 yrs |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:00BFFF&height=3" width="100%"/>
+
+## ⚓ &nbsp;Live Maritime Apps
+
+<div align="center">
+
+| App | What It Does | Stack |
+|---|---|---|
+| [⚡ **MarineElect**](https://marineelect.sujikumar.com) | Multi-vessel ship electrical management — IMO-keyed workspaces, switchboard analysis, fault logs, class survey alerts | Next.js · TypeScript · Recharts |
+| [⚓ **ShipDash**](https://shipdash.sujikumar.com) | 44-tool maritime engineering toolkit — cable sizing, plasma estimator, SOLAS timers, offline PWA + Android APK | Next.js · TypeScript · PWA |
+| [🌊 **TidePilot**](https://tidepilot.sujikumar.com) | Real-time tidal data, port schedules & coastal planning for marine operations | Next.js · JavaScript · Maritime API |
+| [🚢 **OffsetCalc**](https://offsetcalc.sujikumar.com) | Naval architecture hydrostatics — hull offset tables, Simpson's Rule, WebGL 3D hull viewer | Next.js · Three.js · WebGL |
+| [🛡️ **ShipTrace**](https://shiptrace.sujikumar.com) | Self-hosted NCR & defect intelligence — Pareto analytics, pattern detection, Docker deploy | Next.js · Recharts · Docker |
+| [🎛️ **ShipPipe**](https://shippipe.streamlit.app) | Marine piping designer — 12 ship systems, ASME B36.10M sizing, BOM generation | Python · Streamlit · Pandas |
+| [🧭 **MarineElect Sim**](https://sim.sujikumar.com) | IMO zig-zag & turning circle simulation, Wageningen B-series propeller curves | Next.js · ShipSIM Engine |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:14b8a6&height=3" width="100%"/>
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+**Maritime Software**
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,py,react,tailwind,js,html,css&theme=dark&perline=8)](https://sujikumar.com)
+
+**Infrastructure & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,docker,azure,cloudflare,git,github,vscode&theme=dark&perline=8)](https://sujikumar.com)
+
+**Data & Automation**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,powershell,bash,figma,threejs&theme=dark&perline=8)](https://sujikumar.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:14b8a6&height=3" width="100%"/>
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujirex&theme=tokyonight&hide_border=true&background=060717&stroke=00BFFF&ring=14b8a6&fire=00ff88&currStreakLabel=00BFFF&sideLabels=a0d8ef&currStreakNum=ffffff&sideNums=ffffff&dates=8892b0&border_radius=12" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujirex&layout=compact&theme=tokyonight&hide_border=true&bg_color=060717&title_color=00BFFF&text_color=a0d8ef&border_radius=12&langs_count=8" width="40%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujirex&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" width="90%"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:00BFFF&height=3" width="100%"/>
+
+## 🌐 &nbsp;Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujirex&bg_color=060717&color=00BFFF&line=14b8a6&point=00ff88&area=true&area_color=00BFFF&hide_border=true&border_radius=12&custom_title=Contribution%20Graph" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0a1f5c,100:060717&height=140&section=footer&text=Built%20from%20inside%20a%20shipyard&fontSize=20&fontFamily=Roboto&fontColor=a0d8ef&animation=fadeIn&fontAlignY=55" width="100%"/>
