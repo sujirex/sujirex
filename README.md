@@ -1,33 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060717,40:0a1f5c,100:00BFFF&height=220&section=header&text=Suji%20Kumar%20C&fontSize=56&fontFamily=Roboto&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Maritime%20Engineer%20%E2%80%A2%20Shipyard%20Software%20Architect&descAlignY=58&descSize=17&descColor=a0d8ef" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:00BFFF&height=230&section=header&text=%E2%9A%93%20Suji%20Kumar%20C&fontSize=52&fontFamily=Roboto&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Digital%20Maritime%20Engineer%20%E2%80%A2%20Shipyard%20Software%20Architect&descAlignY=60&descSize=17&descColor=ffffff" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=680&lines=%E2%9A%93+13%2B+Years+Inside+a+Live+Shipyard;%E2%9A%A1+Ship+Electrical+%26+NAVCOM+Systems+Engineer;%F0%9F%8C%8A+Building+Maritime+Software+from+the+Inside;%F0%9F%93%90+CNC+Nesting+%26+Steel+Production+Technology;%F0%9F%96%A5%EF%B8%8F+IT+Infrastructure+%26+Digital+Transformation+Lead;%F0%9F%9A%A2+From+Hull+Plate+to+Production+Dashboard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=2800&pause=900&color=0080FF&center=true&vCenter=true&width=680&lines=%E2%9A%93+13%2B+Years+Inside+a+Live+Shipyard;%E2%9A%A1+Ship+Electrical+%26+NAVCOM+Systems+Engineer;%F0%9F%8C%8A+Building+Maritime+Software+from+the+Inside;%F0%9F%93%90+CNC+Nesting+%26+Steel+Production+Technology;%F0%9F%96%A5%EF%B8%8F+IT+Infrastructure+%26+Digital+Transformation+Lead;%F0%9F%9A%A2+From+Hull+Plate+to+Production+Dashboard" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_sujikumar.com-0d1b4b?style=for-the-badge&logoColor=00BFFF)](https://sujikumar.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/⚓_sujikumar.com-0080FF?style=for-the-badge&logoColor=white)](https://sujikumar.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujirex)&nbsp;
 [![MarineElect](https://img.shields.io/badge/⚡_MarineElect-00ff88?style=for-the-badge&logoColor=black)](https://marineelect.sujikumar.com)&nbsp;
 [![ShipDash](https://img.shields.io/badge/⚓_ShipDash-00BFFF?style=for-the-badge&logoColor=black)](https://shipdash.sujikumar.com)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=sujirex&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)](https://sujikumar.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=sujirex&color=0080FF&style=for-the-badge&label=PROFILE+VIEWS)](https://sujikumar.com)
 
 </div>
-
-<br/>
-
-<!-- Animated Ship — hosted on sujikumar.com -->
-<img src="https://sujikumar.com/ship-animation.svg" width="100%"/>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0080FF,100:00BFFF&height=3" width="100%"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;Who I Am
+## ⚓ &nbsp;Who I Am
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sujirex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060717&title_color=00BFFF&icon_color=14b8a6&text_color=a0d8ef&border_radius=12" width="390"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sujirex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060717&title_color=0080FF&icon_color=00BFFF&text_color=a0d8ef&border_radius=12&count_private=true" width="390"/>
 
 ```yaml
 name      : Suji Kumar C
@@ -71,7 +66,7 @@ doing_now :
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0080FF,100:00BFFF&height=3" width="100%"/>
 
-## ⚓ &nbsp;Live Maritime Apps
+## 🛰️ &nbsp;Live Maritime Apps
 
 <div align="center">
 
@@ -117,15 +112,15 @@ doing_now :
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujirex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060717&title_color=00BFFF&icon_color=14b8a6&text_color=a0d8ef&border_radius=12&count_private=true" width="48%"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujirex&layout=compact&theme=tokyonight&hide_border=true&bg_color=060717&title_color=00BFFF&text_color=a0d8ef&border_radius=12&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sujirex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060717&title_color=0080FF&icon_color=00BFFF&text_color=a0d8ef&border_radius=12&count_private=true" width="48%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujirex&layout=compact&theme=tokyonight&hide_border=true&bg_color=060717&title_color=0080FF&text_color=a0d8ef&border_radius=12&langs_count=8" width="40%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujirex&bg_color=060717&color=00BFFF&line=14b8a6&point=00ff88&area=true&hide_border=true&border_radius=12&custom_title=Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujirex&bg_color=060717&color=0080FF&line=00BFFF&point=ffffff&area=true&hide_border=true&border_radius=12&custom_title=Contribution%20Graph" width="95%"/>
 </div>
 
 <br/>
@@ -136,4 +131,4 @@ doing_now :
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,50:0a1f5c,100:060717&height=140&section=footer&text=Built%20from%20inside%20a%20shipyard&fontSize=20&fontFamily=Roboto&fontColor=a0d8ef&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:00BFFF&height=160&section=footer&text=%E2%9A%93%20sujikumar.com&fontSize=22&fontFamily=Roboto&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
