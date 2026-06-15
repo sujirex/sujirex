@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:00BFFF&height=230&section=header&text=%E2%9A%93%20Suji%20Kumar%20C&fontSize=52&fontFamily=Roboto&fontColor=000000&fontAlignY=40&animation=fadeIn&desc=Digital%20Maritime%20Engineer%20%E2%80%A2%20Shipyard%20Software%20Architect&descAlignY=60&descSize=17&descColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00BFFF&height=230&section=header&text=%E2%9A%93%20Suji%20Kumar%20C&fontSize=52&fontFamily=Roboto&fontColor=000000&fontAlignY=40&animation=fadeIn&desc=Digital%20Maritime%20Engineer%20%E2%80%A2%20Shipyard%20Software%20Architect&descAlignY=60&descSize=17&descColor=000000" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=2800&pause=900&color=0080FF&center=true&vCenter=true&width=680&lines=%E2%9A%93+13%2B+Years+Inside+a+Live+Shipyard;%E2%9A%A1+Ship+Electrical+%26+NAVCOM+Systems+Engineer;%F0%9F%8C%8A+Building+Maritime+Software+from+the+Inside;%F0%9F%93%90+CNC+Nesting+%26+Steel+Production+Technology;%F0%9F%96%A5%EF%B8%8F+IT+Infrastructure+%26+Digital+Transformation+Lead;%F0%9F%9A%A2+From+Hull+Plate+to+Production+Dashboard" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/⚓_sujikumar.com-0080FF?style=for-the-badge&logoColor=white)](https://sujikumar.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/⚓_sujikumar.com-0080FF?style=for-the-badge&logoColor=black)](https://sujikumar.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujirex)&nbsp;
 [![MarineElect](https://img.shields.io/badge/⚡_MarineElect-074650?style=for-the-badge&logoColor=black)](https://marineelect.sujikumar.com)&nbsp;
-[![ShipDash](https://img.shields.io/badge/⚓_ShipDash-00BFFF?style=for-the-badge&logoColor=black)](https://shipdash.sujikumar.com)&nbsp;
+[![ShipDash](https://img.shields.io/badge/⚓_ShipDash-026645?style=for-the-badge&logoColor=black)](https://shipdash.sujikumar.com)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=sujirex&color=0080FF&style=for-the-badge&label=PROFILE+VIEWS)](https://sujikumar.com)
 
 </div>
