@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/⚓_sujikumar.com-0080FF?style=for-the-badge&logoColor=white)](https://sujikumar.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujirex)&nbsp;
-[![MarineElect](https://img.shields.io/badge/⚡_MarineElect-00ff88?style=for-the-badge&logoColor=black)](https://marineelect.sujikumar.com)&nbsp;
+[![MarineElect](https://img.shields.io/badge/⚡_MarineElect-074650?style=for-the-badge&logoColor=black)](https://marineelect.sujikumar.com)&nbsp;
 [![ShipDash](https://img.shields.io/badge/⚓_ShipDash-00BFFF?style=for-the-badge&logoColor=black)](https://shipdash.sujikumar.com)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=sujirex&color=0080FF&style=for-the-badge&label=PROFILE+VIEWS)](https://sujikumar.com)
 
@@ -27,8 +27,6 @@
 ```yaml
 name      : Suji Kumar C
 based     : Gujarat, India 🇮🇳
-current   : Manager – IT & Digital Transformation
-            Shoft Shipyard Pvt. Ltd.
 domain    : Shipbuilding + Maritime Software
 experience: 13+ years across every layer of a shipyard
 ```
