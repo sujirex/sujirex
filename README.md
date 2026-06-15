@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080ff,100:00BFFF&height=230&section=header&text=%E2%9A%93%20Suji%20Kumar%20C&fontSize=52&fontFamily=Roboto&fontColor=000000&fontAlignY=40&animation=fadeIn&desc=Digital%20Maritime%20Engineer%20%E2%80%A2%20Shipyard%20Software%20Architect&descAlignY=60&descSize=17&descColor=000000" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=2800&pause=900&color=0080FF&center=true&vCenter=true&width=680&lines=%E2%9A%93+13%2B+Years+Inside+a+Live+Shipyard;%E2%9A%A1+Ship+Electrical+%26+NAVCOM+Systems+Engineer;%F0%9F%8C%8A+Building+Maritime+Software+from+the+Inside;%F0%9F%93%90+CNC+Nesting+%26+Steel+Production+Technology;%F0%9F%96%A5%EF%B8%8F+IT+Infrastructure+%26+Digital+Transformation+Lead;%F0%9F%9A%A2+From+Hull+Plate+to+Production+Dashboard" alt="Typing SVG" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHkzZzlrOGR3eXU4bjFpMmVzMmRkcGJ2ZXB6NjI2d25uc2NtNGRpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vUNNh3kZtNsGR4A/giphy.gif?font=Roboto&weight=700&size=20&duration=2800&pause=900&color=0080FF&center=true&vCenter=true&width=680&lines=%E2%9A%93+13%2B+Years+Inside+a+Live+Shipyard;%E2%9A%A1+Ship+Electrical+%26+NAVCOM+Systems+Engineer;%F0%9F%8C%8A+Building+Maritime+Software+from+the+Inside;%F0%9F%93%90+CNC+Nesting+%26+Steel+Production+Technology;%F0%9F%96%A5%EF%B8%8F+IT+Infrastructure+%26+Digital+Transformation+Lead;%F0%9F%9A%A2+From+Hull+Plate+to+Production+Dashboard" alt="Typing SVG" />
 </div>
 
 <br/>
