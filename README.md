@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJwN2lwb2pnN2xhcXFhand4dWh6cnFpY2l2YjBuOHQ3Z2lwbWZvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyD6U86ngkuAgIU9NA/giphy.gif" width="100%" alt="Maritime engineering — Suji Kumar C"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZjY3Zka3Zhd2xsZDRla3MyNXJrNTg2NWpmZ2I1cmlvdTUwcXJwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztfu4fG11ymePw4/giphy.gif" width="100%" alt="Maritime engineering — Suji Kumar C"/>
 </div>
 
 <br/>
