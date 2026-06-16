@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sujirex/sujirex/main/marine-banner.gif" width="100%" alt="Maritime engineering — Suji Kumar C"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFnNDVmaTFqY2FwcTV6Nm9xZzdpZmk5emZ4bTh0aWNxNGRnMG9ncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vUNNh3kZtNsGR4A/giphy.gif" width="100%" alt="Maritime engineering — Suji Kumar C"/>
 </div>
 
 <br/>
