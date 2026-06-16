@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="marine-banner.gif" width="100%" alt="Maritime engineering — Suji Kumar C"/>
+  <img src="assets/marine-banner.gif" width="100%" alt="Maritime engineering — Suji Kumar C"/>
 </div>
 
 <br/>
